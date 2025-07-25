@@ -25,7 +25,7 @@ Solução desenvolvida em PySpark para processamento e agregação de dados.
 
 Você pode visualizar ou clonar o notebook diretamente pela plataforma Databricks:
 
-👉 [Clique aqui para abrir o notebook no Databricks](https://dbc-dbfffb09-9678.cloud.databricks.com/editor/notebooks/2929827828570792?o=3068775036321311)
+[Clique aqui para abrir o notebook no Databricks](https://dbc-dbfffb09-9678.cloud.databricks.com/editor/notebooks/2929827828570792?o=3068775036321311)
 
 ---
 
