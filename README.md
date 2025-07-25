@@ -17,7 +17,7 @@ Solução desenvolvida em PySpark para processamento e agregação de dados.
 ### 3. Importe e execute o notebook
 
 - Importe o notebook `pipeline_case_data_engineer.ipynb` para seu workspace Databricks
-  - (Você pode usar o arquivo disponível neste repositório)
+  - (Use o arquivo .ipynb disponível neste repositório, na pasta "assignment-1")
 
  
   
