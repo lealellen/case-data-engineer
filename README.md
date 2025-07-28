@@ -43,8 +43,28 @@ Pipeline para ingestão, validação e armazenamento de dados de sensores IoT co
 
 ### 2. Clone o repositório
 
+```bash
+cd assignment-2
+cd scripts
+```
+
 ### 3. Build e execução dos containers
 
 ```bash
-docker compose up --build
+docker compose up
+```
 
+### 4. Saídas
+
+Serão gerados arquivos parquet em data/bronze e data/logs
+
+- data/bronze: Dados brutos, salvos após o envio pelo Kafka
+- data/logs: Dados com campos inválidos (Simulando dados corrompidos). 
+
+A camada silver é salva em um banco de dados Postgre. 
+
+Para visualizar os dados das camadas basta executar o notebook **testes.ipynb**
+
+### 5. Observações
+
+Após a execução local, mantive os dados gerados na pasta assignment-2/scripts (após execução) 
