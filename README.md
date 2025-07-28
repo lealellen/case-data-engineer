@@ -69,4 +69,4 @@ Para visualizar os dados das camadas basta executar o notebook **testes.ipynb**
 
 ### 5. Observações
 
-Após a execução local, mantive os dados gerados na pasta assignment-2/scripts (após execução) 
+Após a execução local, mantive os dados gerados na pasta assignment-2/scripts (após execução) para eventuais consultas das saídas sem a necessidade de execução.
