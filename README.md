@@ -41,7 +41,7 @@ Pipeline para ingestão, validação e armazenamento de dados de sensores IoT, u
 
 ### 1. Pré-requisitos
 
-- Docker e Docker Compose instalados
+- Docker instalado
 
 ### 2. Clone o repositório
 
