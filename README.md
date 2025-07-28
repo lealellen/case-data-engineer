@@ -31,7 +31,9 @@ Você pode visualizar ou clonar o notebook diretamente pela plataforma Databrick
 
 # Assignment 2
 
-Pipeline para ingestão, validação e armazenamento de dados de sensores IoT com deployment via Docker Compose.
+Pipeline para ingestão, validação e armazenamento de dados de sensores IoT, utilizando Kafka, Spark e PostgreSQL com deployment via Docker Compose.
+
+![Arquitetura do Projeto](assignment-2/scripts (após execução)/arq.jpg)
 
 ---
 
