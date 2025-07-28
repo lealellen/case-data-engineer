@@ -30,3 +30,21 @@ Você pode visualizar ou clonar o notebook diretamente pela plataforma Databrick
 ---
 
 # Assignment 2
+
+Pipeline para ingestão, validação e armazenamento de dados de sensores IoT com deployment via Docker Compose.
+
+---
+
+## Como executar o projeto
+
+### 1. Pré-requisitos
+
+- Docker e Docker Compose instalados
+
+### 2. Clone o repositório
+
+### 3. Build e execução dos containers
+
+```bash
+docker compose up --build
+
