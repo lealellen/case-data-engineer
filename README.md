@@ -33,7 +33,7 @@ Você pode visualizar ou clonar o notebook diretamente pela plataforma Databrick
 
 Pipeline para ingestão, validação e armazenamento de dados de sensores IoT, utilizando Kafka, Spark e PostgreSQL com deployment via Docker Compose.
 
-![Arquitetura do Projeto](assignment-2/scripts (após execução)/arq.jpg)
+![Arquitetura do Projeto](arq.jpg)
 
 ---
 
