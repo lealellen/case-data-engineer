@@ -53,6 +53,7 @@ Este repositório contém dois assignments de Engenharia de Dados, simulando des
 - **PostgreSQL**: Banco relacional robusto e fácil de integrar via JDBC com Spark para a camada silver (dados tratados).
 - **Faker**: Geração de dados simulados para o cenário IoT.
 - **Parquet**: Formato colunar otimizado para armazenar grandes volumes de dados de forma compacta e eficiente.
+- **Hive Table**: Permite consultar e organizar dados via SQL mesmo quando estão armazenados em arquivos distribuídos, facilitando a integração com outras ferramentas de analytics.
 
 # Assignment 1 
 
